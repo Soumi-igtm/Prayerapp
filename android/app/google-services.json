@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051053122133",
+    "project_id": "the-1-hour-prayer-challenge",
+    "storage_bucket": "the-1-hour-prayer-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051053122133:android:6f79b64c9b286997d3aadc",
+        "android_client_info": {
+          "package_name": "com.shaderbytes.prayerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051053122133-jkuadsu21631tipht36cknesgupbfv0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnprLl0GD9nYTxLy6IVYznAt5_L8un6o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051053122133-jkuadsu21631tipht36cknesgupbfv0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

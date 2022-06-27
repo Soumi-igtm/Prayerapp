@@ -1,0 +1,1 @@
+class Feed1Model { }

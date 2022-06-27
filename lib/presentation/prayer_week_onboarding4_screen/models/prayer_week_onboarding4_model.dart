@@ -1,0 +1,1 @@
+class PrayerWeekOnboarding4Model { }

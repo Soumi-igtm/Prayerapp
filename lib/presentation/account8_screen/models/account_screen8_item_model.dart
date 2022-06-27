@@ -1,0 +1,1 @@
+class AccountScreen8ItemModel { }

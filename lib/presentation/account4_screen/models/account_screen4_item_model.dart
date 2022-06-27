@@ -1,0 +1,1 @@
+class AccountScreen4ItemModel { }

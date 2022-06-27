@@ -1,0 +1,1 @@
+class DesignScreen3Model { }

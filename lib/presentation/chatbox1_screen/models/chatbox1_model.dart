@@ -1,0 +1,1 @@
+class Chatbox1Model { }

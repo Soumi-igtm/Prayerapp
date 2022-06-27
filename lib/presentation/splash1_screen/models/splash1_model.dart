@@ -1,0 +1,1 @@
+class Splash1Model { }

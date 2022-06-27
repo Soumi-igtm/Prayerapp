@@ -1,0 +1,1 @@
+class DailyPrayer36Model { }
